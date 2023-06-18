@@ -85,7 +85,7 @@
 }
 
 .text-secondary {
-  color: #536976 !important;
+  color: #000000 !important;
 }
 
 .bg-info {
@@ -165,7 +165,7 @@
 }
 
 .text-dark {
-  color: #343a40 !important;
+  color: #000000 !important;
 }
 
 .bg-light {
@@ -885,7 +885,7 @@ html {
 }
 
 .navbar-custom .navbar-nav .nav-item .nav-link:hover, .navbar-custom .navbar-nav .nav-item .nav-link.active {
-  color: #1ce1ac !important;
+  color: #b6fa1b !important;
 }
 
 .navbar-custom .navbar-nav .nav-item .nav-link.active::after {
@@ -895,7 +895,7 @@ html {
   left: 10px;
   right: 10px;
   border-radius: 10px;
-  border-bottom: 2px solid #1ce1ac;
+  border-bottom: 2px solid #b6fa1b;
 }
 
 .navbar-custom .navbar-nav .nav-item:last-child .nav-link {
