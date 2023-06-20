@@ -145,6 +145,9 @@ html {
   padding-bottom: 15px;
   position: relative;
 }
+.section-footer {
+  position: relative;
+}
 
 .fs-13 {
   font-size: 13px;
