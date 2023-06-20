@@ -273,6 +273,15 @@ iframe {
   
 }
 
+.btn-deep-orange{
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: small;
+    background-color: #ff6124;
+    
+}
+
 #style-switcher {
   transition: all 0.4s;
   background: none repeat scroll 0 0 #f8f9fa;
@@ -1332,7 +1341,7 @@ ul.pattern .color6 {
 
 .footer-terms li::after {
   content: "|";
-  margin: 0 20px;
+  margin: 0px ;
   color: #757575;
 }
 
